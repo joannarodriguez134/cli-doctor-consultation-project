@@ -1,4 +1,4 @@
-require_relative "doctor"
+require_relative "patient"
 
-doctor = Doctor.new
-doctor.choose_room_number
+patient = Patient.new
+patient.patient_name
